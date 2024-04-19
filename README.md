@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @umairaltaf982
+- 👋 Hi, I’m Umair Altaf
 - 👀 I’m interested in exploring different coding languages
 - 🌱 I’m currently learning C# and SQL
 - 💞️ I’m looking to collaborate on different projects to enhance my coding abilities
